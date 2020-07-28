@@ -9,15 +9,10 @@ This *Reflection* assignment has two goals. The first goal is to remind ourselve
 ## What to do
 
 **Question 1:**  First consider the following questions.
-
-*How are you reading this assignment? 
-
-*Are you reading it on a phone or computer? 
-
-*Are you reading it on a printed page of paper? If so, how did you obtain that page of paper?
-
-*How did you access the assignment?  On Canvas? In an email from a friend or instructor?
-
+* How are you reading this assignment? 
+* Are you reading it on a phone or computer? 
+* Are you reading it on a printed page of paper? If so, how did you obtain that page of paper?
+* How did you access the assignment?  On Canvas? In an email from a friend or instructor?
 In 150 words or less please write down how you accessed this assignment.
 
 **Question 2:**  In 150 words or less, please write about how being able bodied is helpful in accessing this assignment. For example, the ability to use a computer keyboard is very helpful in accessing this assignment via a computer.  If you have a disability that affected how you accessed this assignment you are also welcome to write about that experience.  (Note:  The instructors strive to make this course as accessible as possible to all.  Please do let us know of changes that we could make to improve the course.)
