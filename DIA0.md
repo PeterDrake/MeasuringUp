@@ -10,13 +10,13 @@ This *Reflection* assignment has two goals. The first goal is to remind ourselve
 
 **Question 1:**  First consider the following questions.
 
--How are you reading this assignment? 
+*How are you reading this assignment? 
 
--Are you reading it on a phone or computer? 
+*Are you reading it on a phone or computer? 
 
--Are you reading it on a printed page of paper? If so, how did you obtain that page of paper?
+*Are you reading it on a printed page of paper? If so, how did you obtain that page of paper?
 
--How did you access the assignment?  On Canvas? In an email from a friend or instructor?
+*How did you access the assignment?  On Canvas? In an email from a friend or instructor?
 
 In 150 words or less please write down how you accessed this assignment.
 
